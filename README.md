@@ -10,7 +10,7 @@ Run `git clone https://github.com/dpark12300/PWMan-CLI.git`
 ## Install instructions:
 
 ### Linux
-Run `./install.sh`
+Run `python3 main.py`
 
 ### Windows
 Install script coming soon. For now, use [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) and follow the [Linux](https://github.com/dpark12300/PWMan-CLI/blob/main/README.md#linux) instructions.
