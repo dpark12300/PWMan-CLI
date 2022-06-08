@@ -3,6 +3,7 @@ PWMan password manager -  CLI edition.
 
 ## Cloning:
 Install [Git](https://git-scm.com/)
+
 Run `git clone https://github.com/dpark12300/PWMan-CLI.git`
 `cd` into the folder where you just cloned the project
 
