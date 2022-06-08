@@ -13,10 +13,10 @@ Run `git clone https://github.com/dpark12300/PWMan-CLI.git`
 Run `./install.sh`
 
 ### Windows
-Install script coming soon. For now, use [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) and follow the [Linux](https://github.com/dpark12300/PWMan-CLI/main/README.md#linux) instructions.
+Install script coming soon. For now, use [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) and follow the [Linux](https://github.com/dpark12300/PWMan-CLI/blob/main/README.md#linux) instructions.
 
 ### Mac
-For now, please use the [Linux](https://github.com/dpark12300/PWMan-CLI/main/README.md#linux) build. Sorry.
+For now, please use the [Linux](https://github.com/dpark12300/PWMan-CLI/blob/main/README.md#linux) build. Sorry.
 
 ### Licensing
 Please read the [License](LICENSE) for more info.
